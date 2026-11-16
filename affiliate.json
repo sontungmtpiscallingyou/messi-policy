@@ -1,0 +1,223 @@
+{
+  "markets": {
+    "com.shopee.vn": {
+      "badge_text": "Gợi ý phụ kiện Messi • Tiếp thị liên kết",
+      "headline": "Bộ sưu tập phụ kiện hot cho fan Messi & Đội tuyển Argentina",
+      "cta_text": "Sắm trên Shopee",
+      "items": [
+        {
+          "id": "messi_vn_01",
+          "title": "Mô Hình Tượng Cầu Thủ Lionel Messi Soccerwe Để Bàn Trang Trí Đội Tuyển Argentina",
+          "price": "35.000đ",
+          "original_price": "65.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-81ztc-mvb94eckm9z79b.webp",
+          "aff_link": "https://s.shopee.vn/5LDWTqvqeu"
+        },
+        {
+          "id": "messi_vn_02",
+          "title": "Bộ 50 Hình Dán Sticker Lionel Messi Chống Nước Dán Mũ Bảo Hiểm Laptop Điện Thoại",
+          "price": "19.000đ",
+          "original_price": "35.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/sg-11134201-825a6-mqefim0n3s3ze2.webp",
+          "aff_link": "https://s.shopee.vn/1LhNiWSxTz"
+        },
+        {
+          "id": "messi_vn_03",
+          "title": "Móc Khóa Thẻ Cầu Thủ Lionel Messi Mica Acrylic Trong Suốt World Cup 2022",
+          "price": "15.000đ",
+          "original_price": "28.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-81ztc-mu8q2fqjz21600.webp",
+          "aff_link": "https://s.shopee.vn/906oqcbzkT"
+        },
+        {
+          "id": "messi_vn_04",
+          "title": "Bộ Quần Áo Bóng Đá Đội Tuyển Argentina Messi Số 10 Vải Thể Thao Mát Thoáng Khí",
+          "price": "89.000đ",
+          "original_price": "145.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134201-81ztc-mvb2ond90umg95.webp",
+          "aff_link": "https://s.shopee.vn/5fqMsVT2PY"
+        },
+        {
+          "id": "messi_vn_05",
+          "title": "Thẻ Bài Cầu Thủ Lionel Messi Argentina & Barcelona Số 10 Kỷ Niệm Huyền Thoại",
+          "price": "12.000đ",
+          "original_price": "25.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/sg-11134201-825ao-mstogocugtmu03.webp",
+          "aff_link": "https://s.shopee.vn/gRgvKPbLx"
+        }
+      ]
+    },
+    "com.shopee.id": {
+      "badge_text": "Pilihan Aksesoris Messi • Sponsored",
+      "headline": "Koleksi Aksesoris Favorit Penggemar Lionel Messi",
+      "cta_text": "Beli di Shopee",
+      "items": []
+    },
+    "com.shopee.ph": {
+      "badge_text": "Messi Merch Picks • Sponsored",
+      "headline": "Top Lionel Messi & Argentina Collectibles",
+      "cta_text": "View on Shopee",
+      "items": [
+        {
+          "id": "messi_ph_01",
+          "title": "Messi Plush Doll World Cup Football Star Cute Collectible Plushie Toy",
+          "price": "₱189",
+          "original_price": "₱320",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134201-823rq-moqn5n0s9ez0f2.webp",
+          "aff_link": "https://invl.me/clo8xtx"
+        },
+        {
+          "id": "messi_ph_02",
+          "title": "Argentina Home Fans Edition 2026 World Cup Qualifiers Messi Jersey",
+          "price": "₱249",
+          "original_price": "₱450",
+          "image_url": "https://down-ph.img.susercontent.com/file/cn-11134207-820l4-mh3qbrtjuzv31b.webp",
+          "aff_link": "https://invl.me/clo8xu1"
+        },
+        {
+          "id": "messi_ph_03",
+          "title": "Lionel Messi Lomo Card Photocard Set 60pcs with 32pcs Stickers",
+          "price": "₱99",
+          "original_price": "₱180",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134201-7repn-m25noq9litzq88.webp",
+          "aff_link": "https://invl.me/clo8xu3"
+        },
+        {
+          "id": "messi_ph_04",
+          "title": "Messi 10 Inter Miami & Argentina Quick Dry Summer Training Jersey",
+          "price": "₱199",
+          "original_price": "₱350",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134201-824gh-mpxab64hdiizf2.webp",
+          "aff_link": "https://invl.me/clo8xu6"
+        },
+        {
+          "id": "messi_ph_05",
+          "title": "Lionel Messi x Samba OG Low Cut White Blue Classic Board Sneakers",
+          "price": "₱650",
+          "original_price": "₱1,200",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-81zth-merlmdg66lfp56.webp",
+          "aff_link": "https://invl.me/clo8xu7"
+        }
+      ]
+    },
+    "com.shopee.th": {
+      "badge_text": "สินค้าแนะนำ Messi • Sponsored",
+      "headline": "คอลเลกชันสุดพิเศษสำหรับแฟนบอล ลิโอเนล เมสซี",
+      "cta_text": "ดูบน Shopee",
+      "items": []
+    },
+    "com.shopee.my": {
+      "badge_text": "Pilihan Barangan Messi • Ditaja",
+      "headline": "Koleksi Eksklusif Peminat Lionel Messi & Argentina",
+      "cta_text": "Beli di Shopee",
+      "items": [
+        {
+          "id": "messi_my_01",
+          "title": "Anak Patung Plushie Comel Lionel Messi Bintang Bola Sepak Piala Dunia",
+          "price": "RM16.90",
+          "original_price": "RM28.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-823rq-moqn5n0s9ez0f2.webp",
+          "aff_link": "https://invl.me/clo8xsl"
+        },
+        {
+          "id": "messi_my_02",
+          "title": "Jersi Bola Sepak No 10 Lionel Messi Edisi Peminat Cepat Kering Dewasa & Kanak-Kanak",
+          "price": "RM19.90",
+          "original_price": "RM35.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-823ol-morp9rn1c7wrd0.webp",
+          "aff_link": "https://invl.me/clo8xsq"
+        },
+        {
+          "id": "messi_my_03",
+          "title": "Kad Foto Lomo Lionel Messi 60 Keping Bersama 32 Keping Pelekat Eksklusif",
+          "price": "RM9.90",
+          "original_price": "RM18.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-7repn-m25noq9litzq88.webp",
+          "aff_link": "https://invl.me/clo8xsu"
+        },
+        {
+          "id": "messi_my_04",
+          "title": "Patung Miniatur Blok Lionel Messi Argentina 3 Bintang Koleksi Peminat",
+          "price": "RM6.50",
+          "original_price": "RM12.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-7qvf3-lfhosddemked68.webp",
+          "aff_link": "https://invl.me/clo8xsw"
+        },
+        {
+          "id": "messi_my_05",
+          "title": "Set 50 Keping Pelekat Sticker Kalis Air Lionel Messi Tidak Berulang",
+          "price": "RM4.90",
+          "original_price": "RM9.90",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-23010-jh7f7rf90ymv11.webp",
+          "aff_link": "https://invl.me/clo8xsx"
+        }
+      ]
+    },
+    "com.shopee.br": {
+      "badge_text": "Coleção Lionel Messi • Patrocinado",
+      "headline": "Produtos e Colecionáveis Exclusivos Lionel Messi",
+      "cta_text": "Comprar na Shopee",
+      "items": []
+    },
+    "com.shopee.sg": {
+      "badge_text": "Messi Merch Picks • Sponsored",
+      "headline": "Top Lionel Messi & Argentina World Cup Collectibles",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "messi_sg_01",
+          "title": "Messi Plush Doll World Cup Football Star Cute Collectible Plushie Toy",
+          "price": "$5.90",
+          "original_price": "$9.90",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-823pz-moqn5ndz5kwd18.webp",
+          "aff_link": "https://invl.me/clo8xt7"
+        },
+        {
+          "id": "messi_sg_02",
+          "title": "Summer Messi 10 Men's Football Jersey T-Shirt Quick Dry Sport Top",
+          "price": "$6.90",
+          "original_price": "$12.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-823r5-mp09dcuonfuq24.webp",
+          "aff_link": "https://invl.me/clo8xtd"
+        },
+        {
+          "id": "messi_sg_03",
+          "title": "World Cup Messi Signature Canvas Poster Wall Art Painting Decor",
+          "price": "$3.50",
+          "original_price": "$6.80",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-7rdxd-lzvn2liursp2ff.webp",
+          "aff_link": "https://invl.me/clo8xth"
+        },
+        {
+          "id": "messi_sg_04",
+          "title": "Lionel Messi Soccer Action Figurine Desktop Display Collectible Toy",
+          "price": "$4.20",
+          "original_price": "$8.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rava-mb0x30enp2tscb.webp",
+          "aff_link": "https://invl.me/clo8xtj"
+        },
+        {
+          "id": "messi_sg_05",
+          "title": "Inter Miami Messi No.10 Black Gold Streetwear Soccer Jersey T-Shirt",
+          "price": "$9.90",
+          "original_price": "$18.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-825b9-mqowt9g6cwzv49.webp",
+          "aff_link": "https://invl.me/clo8xtm"
+        }
+      ]
+    },
+    "com.shopee.tw": {
+      "badge_text": "梅西週邊推薦 • 蝦皮分銷",
+      "headline": "里奧·梅西與阿根廷國家隊熱門週邊特選",
+      "cta_text": "前往蝦皮選購",
+      "items": []
+    },
+    "com.shopee.mx": {
+      "badge_text": "Colección Lionel Messi • Patrocinado",
+      "headline": "Coleccionables y Accesorios de Lionel Messi",
+      "cta_text": "Ver en Shopee",
+      "items": []
+    }
+  }
+}
+
